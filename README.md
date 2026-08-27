@@ -26,6 +26,14 @@ This project provides an interactive graphical interface for calculating the max
 🚀 Getting Started
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
+  
+## 📺 Application in Action
+
+<video width="100%" controls autoplay loop muted>
+  <source src="https://github.com/user-attachments/assets/4ba1f719-17dc-4e9f-bab0-56346414106e. type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 1. Clone the repository:
    ```bash
