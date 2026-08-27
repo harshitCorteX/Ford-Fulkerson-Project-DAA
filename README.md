@@ -29,10 +29,8 @@ This project provides an interactive graphical interface for calculating the max
   
 ## 📺 Application in Action
 
-<video width="100%" controls autoplay loop muted>
-  <source src="https://github.com/user-attachments/assets/4ba1f719-17dc-4e9f-bab0-56346414106e. type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img width="1002" height="615" alt="Screenshot 2026-08-27 224639" src="https://github.com/user-attachments/assets/61c86a6e-2589-451a-92e6-ec44679c1961" />
+<img width="787" height="565" alt="Screenshot 2026-08-27 224715" src="https://github.com/user-attachments/assets/08278d07-5e38-4f5d-9969-24f954851a36" />
 
 
 1. Clone the repository:
