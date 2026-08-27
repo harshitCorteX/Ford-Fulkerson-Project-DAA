@@ -26,7 +26,6 @@ This project provides an interactive graphical interface for calculating the max
 🚀 Getting Started
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
-
 ### Running the Application
 1. Clone the repository:
    ```bash
