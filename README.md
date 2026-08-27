@@ -26,13 +26,6 @@ This project provides an interactive graphical interface for calculating the max
 🚀 Getting Started
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
-### Running the Application
-## 📺 Application in Action
-
-<video width="100%" controls autoplay loop muted>
-  <source src=""C:\Users\LENOVO\Downloads\DAA Project\FordFulkersonWaterFlowGUI.java - student-productivity-ai - Visual Studio Code 2026-08-27 22-08-45.mp4"" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 1. Clone the repository:
    ```bash
