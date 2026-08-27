@@ -31,6 +31,12 @@ This project provides an interactive graphical interface for calculating the max
 
 <img width="1002" height="615" alt="Screenshot 2026-08-27 224639" src="https://github.com/user-attachments/assets/61c86a6e-2589-451a-92e6-ec44679c1961" />
 <img width="787" height="565" alt="Screenshot 2026-08-27 224715" src="https://github.com/user-attachments/assets/08278d07-5e38-4f5d-9969-24f954851a36" />
+<img width="772" height="561" alt="Screenshot 2026-08-27 224648" src="https://github.com/user-attachments/assets/6105b685-407a-4bb0-848b-ad76d98d8234" />
+<img width="856" height="566" alt="Screenshot 2026-08-27 224655" src="https://github.com/user-attachments/assets/16c6762d-8286-4c80-a3ab-bb0ad9c3d6e1" />
+<img width="841" height="558" alt="Screenshot 2026-08-27 224700" src="https://github.com/user-attachments/assets/20e6c5d6-8943-4d67-a661-0f5b4416f0f6" />
+<img width="800" height="572" alt="Screenshot 2026-08-27 224708" src="https://github.com/user-attachments/assets/28d4e8f0-e10d-410b-9c6c-7109dbf82455" />
+
+
 
 
 1. Clone the repository:
