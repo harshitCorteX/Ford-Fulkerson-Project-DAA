@@ -29,4 +29,4 @@ This project provides an interactive graphical interface for calculating the max
 ### Running the Application
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/harshitcortex/Ford-Fulkerson-Project-DAA.git](https://github.com/harshitcortex/Ford-Fulkerson-Project-DAA.git)
+   git clone https://github.com/harshitcortex/Ford-Fulkerson-Project-DAA.git
